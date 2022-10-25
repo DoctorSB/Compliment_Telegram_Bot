@@ -11,9 +11,9 @@
 - time
 
 Для установки библиотек введите в консоли:
-pip install pyTelegramBotAPI
-pip install random
-pip install time
+- pip install pyTelegramBotAPI
+- pip install random
+- pip install time
 
 Выбрав версию бота, которая вам нужна, сгенерируйте токен для вашего бота в @BotFather и вставьте его в файл вместо "ваш токен".
 
@@ -22,5 +22,5 @@ pip install time
 Узнать код стикера можно с помощью @idstickerbot.
 
 Для запуска бота введите в консоли:
-sh start.sh
+- sh start.sh
 

@@ -1,0 +1,13 @@
+#images
+*JPG
+*JPEG
+*PNG
+*jpg
+*jpeg
+*png
+
+#compliments
+
+data/compliments.txt
+data/stickers.txt
+data/stickers_mini.txt

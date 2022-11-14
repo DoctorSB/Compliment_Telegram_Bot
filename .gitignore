@@ -1,4 +1,5 @@
 #images
+
 *JPG
 *JPEG
 *PNG
@@ -8,6 +9,4 @@
 
 #compliments
 
-data/compliments.txt
-data/stickers.txt
-data/stickers_mini.txt
+data/*.txt

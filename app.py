@@ -41,7 +41,6 @@ async def main():
         dp.include_router(router)
 
     register_global_middlewares(dp, config)
-    delete_json()
     await on_startup(bot, config.tg_bot.admin_ids)
     await dp.start_polling(bot)
 

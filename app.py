@@ -2,10 +2,9 @@ import logging
 
 from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
-from tgbot.config import load_config
-from tgbot.handlers.admin import admin_router
-from tgbot.handlers.user import user_router
-from tgbot.middlewares.config import ConfigMiddleware
+from bot_func.config import load_config
+from bot_func.handler.admin import admin_router, user_router
+from bot_func.middleware.config import ConfigMiddleware
 from service import broadcaster
 import asyncio
 

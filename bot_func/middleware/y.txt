@@ -1,1 +1,0 @@
-GitGuardian has detected the following Telegram Bot Token exposed within your GitHub account.

@@ -1,4 +1,3 @@
-#цикл для запуска py скрипта
 #!/bin/bash
 
 python3 start_mes.py
